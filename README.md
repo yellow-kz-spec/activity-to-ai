@@ -1,3 +1,9 @@
+## Branching and Merging Assignment
+
+This repository is used to practice the Git branching and merging workflow for the Software Quality Management course.
+
+For this assignment, I created a separate branch, made and committed changes in this branch, and then used a Pull Request to review and merge the changes into the main branch.
+
 # Activity to MD
 
 Activity to MD is an Android application that converts Garmin and Strava workout activities into structured Markdown files optimized for analysis by ChatGPT, Claude, Gemini, and other AI assistants.
